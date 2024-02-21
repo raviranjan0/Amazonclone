@@ -17,5 +17,4 @@ This project is an Amazon clone, crafted with HTML and CSS to replicate the icon
 - 🛒 Intuitive product browsing experience
 - 📦 Add products to your shopping cart
 - 💳 Seamless checkout process
-- 🌐 Responsive design for various devices
 - 🌟 Bonus: Add your unique features!

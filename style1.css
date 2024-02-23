@@ -322,3 +322,9 @@ ul p {
      text-align: center;
      font-size: 15px;
 }
+
+@media(min-width:900px){
+ .copyright{
+     color: red;
+ }    
+}

@@ -18,3 +18,5 @@ This project is an Amazon clone, crafted with HTML and CSS to replicate the icon
 - 📦 Add products to your shopping cart
 - 💳 Seamless checkout process
 - 🌟 Bonus: Add your unique features!
+
+## Thank You 

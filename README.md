@@ -19,4 +19,4 @@ This project is an Amazon clone, crafted with HTML and CSS to replicate the icon
 - 💳 Seamless checkout process
 - 🌟 Bonus: Add your unique features!
 
-## Thank You ...
+## Thank You ..

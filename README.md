@@ -12,7 +12,7 @@ This project is an Amazon clone, crafted with HTML and CSS to replicate the icon
 
 
 
-## 🌟 Features :
+## 🌟 Features : ....
 
 - 🛒 Intuitive product browsing experience
 - 📦 Add products to your shopping cart

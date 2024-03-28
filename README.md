@@ -3,7 +3,7 @@
 
 ## 🚀 Welcome to the Amazon Clone Project ! 
 
-This project is an Amazon clone, crafted with HTML and CSS to replicate the iconic look and feel of the popular e-commerce giant. Dive into the world of web development by exploring and contributing to this engaging project. ........
+This project is an Amazon clone, crafted with HTML and CSS to replicate the iconic look and feel of the popular e-commerce giant. Dive into the world of web development by exploring and contributing to this engaging project. .......
 
 
 ## Preview of my Project :
